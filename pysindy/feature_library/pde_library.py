@@ -15,7 +15,7 @@ from numpy import shape
 from numpy import transpose
 from numpy import zeros
 from numpy import zeros_like
-from scipy.integrate import trapezoid
+from scipy.integrate import trapz
 from scipy.interpolate import interp1d
 from scipy.interpolate import RectBivariateSpline
 from scipy.interpolate import RegularGridInterpolator
